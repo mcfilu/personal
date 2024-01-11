@@ -15,8 +15,9 @@ export default function Home() {
   return (
     <main className="flex flex-col w-full ">
       <Main/>
-      <About/>
       <Skills/>
+      <About/>
+      
       <Experience/>
       <Portfolio/>
       <Contact/>
