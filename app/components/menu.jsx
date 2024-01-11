@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const Menu = () => {
   return (
-    <div className='w-full h-screen bg-white flex flex-col items-center justify-center'>
+    <div className='w-full h-screen bg-white flex flex-col items-center justify-center hidden'>
       <a href="#contact" className='mt-[2vh] text-8xl text-black font-display'>About Me</a>
       <a href="#contact" className='mt-[2vh] text-8xl text-black font-display'>Experience</a>
       <a href="#contact" className='mt-[2vh] text-8xl text-black font-display'>Resume</a>
