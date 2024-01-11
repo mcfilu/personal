@@ -3,6 +3,8 @@ import './globals.css'
 import localFont from 'next/font/local'
 import { Metadata } from "next";
 import '@fortawesome/fontawesome-free/css/all.min.css';
+import Menu from './components/menu';
+import Navigation from './components/navigation';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -19,7 +21,11 @@ console.log("cal");
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={[inter.variable, calSans.variable].join(" ")}>
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <Menu/>
+        <Navigation/>
+        {children}  
+      </body>
     </html>
   )
 }
