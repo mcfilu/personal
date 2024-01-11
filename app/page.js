@@ -7,6 +7,7 @@ import Footer from "./home/footer";
 import Main from "./home/main";
 import Portfolio from "./home/portfolio";
 import Skills from "./home/skills";
+import Cv from "./home/cv";
 // import Particles from "./components/particles";
 
 
@@ -15,9 +16,9 @@ export default function Home() {
   return (
     <main className="flex flex-col w-full ">
       <Main/>
-      <Skills/>
+      <Cv/>
       <About/>
-      
+      <Skills/>
       <Experience/>
       <Portfolio/>
       <Contact/>
