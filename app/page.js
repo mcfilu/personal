@@ -6,15 +6,17 @@ import Experience from "./home/experience";
 import Footer from "./home/footer";
 import Main from "./home/main";
 import Portfolio from "./home/portfolio";
+import Skills from "./home/skills";
 // import Particles from "./components/particles";
 
 
 
 export default function Home() {
   return (
-    <main className="flex w-screen ">
+    <main className="flex flex-col w-full ">
       <Main/>
       <About/>
+      <Skills/>
       <Experience/>
       <Portfolio/>
       <Contact/>
