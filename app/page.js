@@ -1,15 +1,20 @@
-import Link from "next/link";
+
 import React from "react";
+import About from "./home/about";
+import Contact from "./home/contact";
+import Experience from "./home/experience";
+import Footer from "./home/footer";
+import Main from "./home/main";
+import Portfolio from "./home/portfolio";
 // import Particles from "./components/particles";
 
-const navigation = [
-  { name: "Projects", href: "/projects" },
-  { name: "Contact", href: "/contact" },
-];
+
 
 export default function Home() {
   return (
-    
+    <main className="flex w-screen ">
+
+    </main>
   );
 
 }

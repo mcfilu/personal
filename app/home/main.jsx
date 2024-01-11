@@ -7,7 +7,7 @@ const navigation = [
   ];
 
   
-const main = () => {
+const Main = () => {
   return (
     <div className="flex flex-col items-center justify-center w-screen h-screen overflow-hidden bg-gradient-to-tl from-black via-zinc-600/20 to-black">
       <nav className="my-16 animate-fade-in">
@@ -43,4 +43,4 @@ const main = () => {
   )
 }
 
-export default main
+export default Main
