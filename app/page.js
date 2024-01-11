@@ -13,7 +13,12 @@ import Portfolio from "./home/portfolio";
 export default function Home() {
   return (
     <main className="flex w-screen ">
-
+      <Main/>
+      <About/>
+      <Experience/>
+      <Portfolio/>
+      <Contact/>
+      <Footer/>
     </main>
   );
 
