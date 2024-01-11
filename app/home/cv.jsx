@@ -1,17 +1,19 @@
 import React from 'react'
+import Link from 'next/link'
 
 const Cv = () => {
   return (
-    <div className='w-full h-[35vh] flex flex-row bg-white'>
-        <div className='h-full w-1/2 flex flex-row items-center pl-[5vw]'>
-            <h2 className='text-7xl text-black font-display'>Based In London</h2>
-            {/* <h2 className='text-7xl text-black'>In</h2> */}
-            {/* <h2 className='text-7xl text-black'>London</h2> */}
+    <div className='w-full h-[35vh] flex flex-row bg-white items-center justify-center gap-10'>
+        <h2 className='text-7xl text-black font-display'>See my Resume</h2>
+        <Link rel="noopener noreferrer" target='_blank' alt="" href="/files/FilipOlszewski_CV.pdf"><button className='bg-black text-white text-2xl px-7 py-5 rounded-xl'>Open File</button></Link>
+        {/* <div className='h-full w-1/2 flex flex-row items-center pl-[5vw]'>
+            <h2 className='text-7xl text-black font-display'>Resume</h2>
+ 
         </div>
-        <div className='h-full w-1/2 flex flex-col justify-center pl-[2vw] pr-[2vw]'>
-            <h3 className='text-3xl text-black'>Working all around the world</h3>
-            <p className='mt-[2vh]'>I am a seasoned software expert who has developed products for enterprise clients such as Intuit, Yale University, and Hewlett-Packard (HP), as well as many venture-backed businesses. I specialize in building applications specific to the business needs of my clients. I have done work in software development, mobile app creation, front-end/back-end web, database/server management, graphic design, and video game development.</p>
-        </div>
+        <div className='h-full w-1/2 flex flex-col items-start justify-center pl-[2vw] pr-[2vw]'>
+            
+            <button className='bg-black text-white text-xl px-4 py-2'>Open File</button>
+        </div> */}
     </div>
   )
 }
