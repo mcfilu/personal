@@ -3,10 +3,10 @@ import Link from 'next/link'
 
 const Contact = () => {
   return (
-    <div className='w-full h-screen grid grid-cols-3 bg-gradient-to-tl from-black via-zinc-800 to-black items-center justify-center'>
+    <div className='w-full h-[70vh] grid grid-cols-3 bg-gradient-to-tl from-black via-zinc-800 to-black items-center justify-center'>
         
         
-        <div className='border-2 border rounded-xl h-1/2 m-10 flex flex-col'>
+        <div className='border-2 border rounded-xl h-3/4 m-10 flex flex-col'>
             {/* <span className='w-[1px] h-full bg-white relative left-20'></span> */}
             <div className='flex flex-col items-center justify-center h-full'>
                 <div className='w-[10vh] h-[10vh] rounded-full border flex items-center justify-center'>
@@ -16,7 +16,7 @@ const Contact = () => {
                 <span className='text-l text-white mt-[2vh]'>GitHub</span>
             </div>
         </div>
-        <div className='border-2 border rounded-xl h-1/2 m-10 flex flex-col'>
+        <div className='border-2 border rounded-xl h-3/4 m-10 flex flex-col'>
 
             {/* <span className='w-[1px] h-full bg-white relative left-20'></span> */}
             <div className='flex flex-col items-center justify-center h-full'>
@@ -27,7 +27,7 @@ const Contact = () => {
                 <span className='text-l text-white mt-[2vh]'>Email</span>
             </div>
         </div>
-        <div className='border-2 border rounded-xl h-1/2 m-10 flex flex-col'>
+        <div className='border-2 border rounded-xl h-3/4 m-10 flex flex-col'>
             {/* <span className='w-[1px] h-full bg-white relative left-20'></span> */}
             <div className='flex flex-col items-center justify-center h-full'>
                 <div className='w-[10vh] h-[10vh] rounded-full border flex items-center justify-center'>
