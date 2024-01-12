@@ -3,6 +3,7 @@ import React from 'react'
 const Experience = () => {
   return (
     <div className='w-full flex flex-col bg-white px-[10vw] '>
+        <h2 className='text-7xl font-display text-black mt-[5vh] mb-[5vh] text-center'>My Experience</h2>
         <div className='w-full  flex flex-row justify-center'>
             <div className='w-1/5 h-full mt-[2vh] '>October 2021 - Current</div>
             {/* <div className='h-full border'></div> */}
