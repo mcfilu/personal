@@ -19,13 +19,15 @@ export default function Home() {
   return (
     <main className="flex flex-col w-full ">
       <Main/>
-      <Location/>
+      
       <About/>
+      <Location/>
+      <Portfolio/>
       <Skills/>
       <Skills2/>
       <Experience/>
       <Cv/>
-      <Portfolio/>
+      
       <Contact/>
       {/* <Contact2/> */}
       <Footer/>
