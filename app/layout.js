@@ -3,6 +3,8 @@ import './globals.css'
 import localFont from 'next/font/local'
 import { Metadata } from "next";
 import '@fortawesome/fontawesome-free/css/all.min.css';
+import '@coreui/icons/css/brand.css';
+
 import Context from './context/context';
 import Menu from './components/menu';
 import Navigation from './components/navigation';

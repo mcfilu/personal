@@ -10,6 +10,7 @@ import Skills from "./home/skills";
 import Cv from "./home/cv";
 import Location from "./home/location";
 import Contact2 from "./home/contact2";
+import Skills2 from "./home/skills2";
 // import Particles from "./components/particles";
 
 
@@ -21,11 +22,12 @@ export default function Home() {
       <Location/>
       <About/>
       <Skills/>
+      <Skills2/>
       <Experience/>
       <Cv/>
       <Portfolio/>
       <Contact/>
-      <Contact2/>
+      {/* <Contact2/> */}
       <Footer/>
     </main>
   );
