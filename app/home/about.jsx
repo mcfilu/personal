@@ -3,9 +3,9 @@ import Image from 'next/image'
 
 const About = () => {
   return (
-    <div className='w-full h-screen flex flex-row'>
+    <div className='w-full h-screen flex flex-row bg-gradient-to-tl from-black via-zinc-800 to-black justify-center'>
         <div className='w-1/2 h-full relative'>
-            <Image fill objectFit='cover' alt="" src="/images/filip_image.jpg" ></Image>
+            <Image fill objectFit='cover' alt="" src="/images/me_no_bg.png" ></Image>
         </div>
         <div className='w-1/2 h-full flex flex-col bg-gradient-to-tl from-black via-zinc-800 to-black justify-center p-10'>
             <h2 className='text-7xl text-white font-display'>Hey</h2>
