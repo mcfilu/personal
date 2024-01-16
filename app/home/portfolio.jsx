@@ -35,7 +35,7 @@ const Portfolio = () => {
             <div className='w-[45%] h-full flex flex-col items-start justify-center z-5'>
                 <p className='text-white text-l'>Featured Project</p>
                 <h2 className='text-white text-4xl mt-[1vh] font-display'>qLegal Podcast Application</h2>
-                <div className='w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[3vh] rounded'>
+                <div className='w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[3vh] rounded z-10'>
                     <p className='text-white text-left'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
                     <p className='text-white text-left mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
                 </div>
@@ -58,7 +58,7 @@ const Portfolio = () => {
 
         <div className='w-full h-[50vh] flex flex-row mt-[10vh]'>
             <div className='w-[55%] h-full relative '>
-                <Image alt="" src="/images/zerowait.png" fill objectFit='cover' className='rounded'></Image>
+                <Image alt="" src="/images/parish.png" fill objectFit='cover' className='rounded'></Image>
             </div>
             <div className='w-[45%] h-full flex flex-col items-end justify-center'>
                 <p className='text-white text-l'>Featured Project</p>
@@ -86,7 +86,7 @@ const Portfolio = () => {
             <div className='w-[45%] h-full flex flex-col items-start justify-center z-5'>
                 <p className='text-white text-l'>Featured Project</p>
                 <h2 className='text-white text-4xl mt-[1vh] font-display'>Papagrin Production Application</h2>
-                <div className='w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[3vh] rounded'>
+                <div className='w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[3vh] rounded z-10'>
                     <p className='text-white text-left'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
                     <p className='text-white text-left mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
                 </div>
@@ -103,7 +103,7 @@ const Portfolio = () => {
                 </div>
             </div>
             <div className='w-[55%] h-full relative z-4'>
-                <Image alt="" src="/images/papagrin1.webp" fill objectFit='cover' className='rounded z-4'></Image>
+                <Image alt="" src="/images/zerowait.png" fill objectFit='cover' className='rounded z-4'></Image>
             </div>
         </div>
 
@@ -129,6 +129,32 @@ const Portfolio = () => {
                     <i className='fa-brands fa-github text-white text-[4vh]'></i>
                     <i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh]'></i>
                 </div>
+            </div>
+        </div>
+
+        <div className='w-full h-[50vh] flex flex-row mt-[10vh]'>
+            
+            <div className='w-[45%] h-full flex flex-col items-start justify-center z-5'>
+                <p className='text-white text-l'>Featured Project</p>
+                <h2 className='text-white text-4xl mt-[1vh] font-display'>Multimedia platform for Warsaw Cathedra</h2>
+                <div className='w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[3vh] rounded z-10'>
+                    <p className='text-white text-left'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
+                    <p className='text-white text-left mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
+                </div>
+                <div className='flex flex-row gap-4 text-white mt-[3vh]'>
+                    <p>JavaScript</p>
+                    <p>NextJs</p>
+                    <p>TailwindCSS</p>
+                    <p>Figma</p>
+                    <p>HTML/5</p>
+                </div>
+                <div className='flex flex-row gap-4 mt-[2vh] z-5'>
+                    <i className='fa-brands fa-github text-white text-[4vh]'></i>
+                    <i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh]'></i>
+                </div>
+            </div>
+            <div className='w-[55%] h-full relative z-4'>
+                <Image alt="" src="/images/papagrin1.webp" fill objectFit='cover' className='rounded z-4'></Image>
             </div>
         </div>
 
