@@ -21,6 +21,7 @@ const Skills = () => {
                 <div className='flex flex-row gap-4 mt-[3vh]'>
 
                     <i class='cib-django text-white text-[7vh]'></i>
+                    <i class='cib-flask text-white text-[7vh]'></i>
                     <i class='cib-postgresql text-white text-[7vh]'></i>
                     <i class='cib-strapi text-white text-[7vh]'></i>
 
@@ -42,14 +43,16 @@ const Skills = () => {
             <div className='w-full h-full flex flex-col px-[2vw] py-[5vh] hover:bg-zinc-600 bg-zinc-800 border-x'>
                 <div className='flex flex-row gap-4'>
 
-                    <i class='cib-python text-white text-[7vh]'></i>
+                    <i class='cib-html5 text-white text-[7vh]'></i>
+                    <i class='cib-css3-shilled text-white text-[7vh]'></i>
                     <i class='cib-js text-white text-[7vh]'></i>
                 </div>
                 <div className='flex flex-row gap-4 mt-[3vh]'>
 
-                    <i class='cib-django text-white text-[7vh]'></i>
-                    <i class='cib-postgresql text-white text-[7vh]'></i>
-                    <i class='cib-strapi text-white text-[7vh]'></i>
+                    <i class='cib-jquery text-white text-[7vh]'></i>
+                    <i class='cib-react text-white text-[7vh]'></i>
+                    <i class='cib-next-js text-white text-[7vh]'></i>
+                    <i class='cib-bootstrap text-white text-[7vh]'></i>
 
                 </div>
                 <div className='flex flex-row gap-4 mt-[3vh]'>
@@ -69,20 +72,21 @@ const Skills = () => {
             <div className='w-full h-full flex flex-col p-8 px-[2vw] py-[5vh] hover:bg-zinc-600 bg-zinc-800'>
                 <div className='flex flex-row gap-4'>
 
-                    <i class='cib-python text-white text-[7vh]'></i>
-                    <i class='cib-js text-white text-[7vh]'></i>
+                    <i class='cib-amazon-aws text-white text-[7vh]'></i>
+                    <i class='cib-digital-ocean text-white text-[7vh]'></i>
                 </div>
                 <div className='flex flex-row gap-4 mt-[3vh]'>
 
-                    <i class='cib-django text-white text-[7vh]'></i>
+                    <i class='cib-docker text-white text-[7vh]'></i>
                     <i class='cib-postgresql text-white text-[7vh]'></i>
-                    <i class='cib-strapi text-white text-[7vh]'></i>
+                    <i class='cib-cc-stripe text-white text-[7vh]'></i>
 
                 </div>
                 <div className='flex flex-row gap-4 mt-[3vh]'>
-                    <i class='cib-linux text-white text-[7vh]'></i>
-                    <i class='cib-ubuntu text-white text-[7vh]'></i>
-                    <i class='cib-nginx text-white text-[7vh]'></i>
+                    <i class='cib-git text-white text-[7vh]'></i>
+                    <i class='cib-github text-white text-[7vh]'></i>
+                    <i class='cib-gitlab text-white text-[7vh]'></i>
+                    <i class='cib-jira text-white text-[7vh]'></i>
                 </div>
             </div>
         </div>
