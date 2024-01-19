@@ -4,7 +4,7 @@ const Skills = () => {
   return (
     <div className='w-full flex flex-col bg-white'>
         <h2 className='text-7xl text-black font-display my-[3vh] text-center'>Skils and Tools</h2>
-        <div className='w-full grid grid-cols-3 h-full'>
+        <div className='w-full grid grid-cols-1 md:grid-cols-3 h-full'>
         <div className='flex flex-col h-full'>
             <div className='bg-white hover:bg-zinc-100 h-full flex items-center justify-center'>
                 <div className='flex flex-col w-full h-full p-[5vh] items-left justify-center'>
