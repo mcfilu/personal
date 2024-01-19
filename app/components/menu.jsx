@@ -10,9 +10,9 @@ const Menu = () => {
 
   return (
     <div className={`fixed z-20 w-full h-screen bg-white flex flex-col items-center justify-center ${menuVisibility ? '' : 'hidden'}`}>
-      <a href="#contact" className='mt-[2vh] text-8xl text-black font-display' onClick={() => setMenu()}>About Me</a>
-      <a href="#contact" className='mt-[2vh] text-8xl text-black font-display' onClick={() => setMenu()}>Experience</a>
-      <a href="#contact" className='mt-[2vh] text-8xl text-black font-display' onClick={() => setMenu()}>Resume</a>
+      <a href="#about" className='mt-[2vh] text-8xl text-black font-display' onClick={() => setMenu()}>About Me</a>
+      <a href="#projects" className='mt-[2vh] text-8xl text-black font-display' onClick={() => setMenu()}>Projects</a>
+      <Link rel="noopener noreferrer" target='_blank' alt="" href="/files/FilipOlszewski_CV.pdf" className='mt-[2vh] text-8xl text-black font-display' onClick={() => setMenu()}>Resume</Link>
       <a href="#contact" className='mt-[2vh] text-8xl text-black font-display' onClick={() => setMenu()}>Contact</a>
       <div className='flex flex-row gap-4 mt-[4vh]'>
         <Link href="https://github.com/mcfilu/"><i className={`fa-brands fa-github-square text-center text-[7vh] text-black`}></i></Link>

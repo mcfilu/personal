@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const Portfolio = () => {
   return (
-    <div className='w-full  flex flex-col items-center justify-center bg-gradient-to-tl from-black via-zinc-800 to-black px-[10vw] pb-[10vh]'>
+    <div id='projects' className='w-full  flex flex-col items-center justify-center bg-gradient-to-tl from-black via-zinc-800 to-black px-[10vw] pb-[10vh]'>
         <h2 className='text-7xl text-white font-display mb-[10vh] mt-[5vh]'>Proffesional Projects</h2>
         <div className='w-full h-[50vh] flex flex-row'>
             <div className='w-[55%] h-full relative '>

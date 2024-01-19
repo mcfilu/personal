@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const About = () => {
   return (
-    <div className='w-full h-screen flex flex-row justify-center'>
+    <div id="about" className='w-full h-screen flex flex-row justify-center'>
         <div className='w-1/2 h-full relative bg-gradient-to-br from-black via-zinc-800 to-black'>
             <Image fill objectFit='cover' alt="" src="/images/me_no_bg.png" ></Image>
         </div>
