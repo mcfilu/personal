@@ -24,7 +24,7 @@ export default function Home() {
       <Location/>
       <Portfolio/>
       <Skills/>
-      <Skills2/>
+      {/* <Skills2/> */}
       <Experience/>
       <Cv/>
       

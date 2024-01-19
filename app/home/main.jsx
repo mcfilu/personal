@@ -14,7 +14,7 @@ const Main = () => {
         quantity={100}
       /> */}
       <div className={`absolute inset-0 -z-10  bg-black bg-opacity-85`}></div>
-      <h1 className="z-10 text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
+      <h1 className="z-10 text-6xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
         Filip Olszewski
       </h1>
 

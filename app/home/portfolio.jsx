@@ -4,14 +4,17 @@ import Image from 'next/image'
 const Portfolio = () => {
   return (
     <div id='projects' className='w-full  flex flex-col items-center justify-center bg-gradient-to-tl from-black via-zinc-800 to-black px-[10vw] pb-[10vh]'>
-        <h2 className='text-7xl text-white font-display mb-[10vh] mt-[5vh]'>Proffesional Projects</h2>
-        <div className='w-full h-[50vh] flex flex-row'>
-            <div className='w-[55%] h-full relative '>
+        <h2 className='text-7xl text-white font-display mb-[10vh] mt-[5vh] text-center'>Proffesional Projects</h2>
+        <div className='w-full flex flex-row'>
+            <div className='hidden md:flex w-[55%] h-[50vh] relative '>
                 <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
             </div>
-            <div className='w-[45%] h-full flex flex-col items-end justify-center'>
+            <div className='w-full md:w-[45%] flex flex-col items-end justify-center'>
                 <p className='text-white text-l'>Featured Project</p>
                 <h2 className='text-white text-4xl mt-[1vh] font-display'>OShot Website Redesign</h2>
+                <div className='flex  md:hidden w-full h-[50vh] relative '>
+                    <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                </div>
                 <div className='w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[3vh] rounded'>
                     <p className='text-white text-right'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
                     <p className='text-white text-right mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
@@ -30,7 +33,7 @@ const Portfolio = () => {
             </div>
         </div>
 
-        <div className='w-full h-[50vh] flex flex-row mt-[10vh]'>
+        {/* <div className='w-full h-[50vh] flex flex-row mt-[10vh]'>
             
             <div className='w-[45%] h-full flex flex-col items-start justify-center z-5'>
                 <p className='text-white text-l'>Featured Project</p>
@@ -156,7 +159,7 @@ const Portfolio = () => {
             <div className='w-[55%] h-full relative z-4'>
                 <Image alt="" src="/images/papagrin1.webp" fill objectFit='cover' className='rounded z-4'></Image>
             </div>
-        </div>
+        </div> */}
 
         {/* <div className='w-full h-[40vh] border rounded-xl flex flex-row p-2'>
             <div className='w-1/2 h-full relative '>
