@@ -4,9 +4,9 @@ const Location = () => {
   return (
     <div className='w-full flex flex-col md:flex-row bg-white py-[5vh]'>
         <div className='w-full md:w-1/2 flex flex-row items-center pl-[5vw]'>
-            <h2 className='text-7xl text-black font-display text-center md:text-left'>Based In London</h2>
-            {/* <h2 className='text-7xl text-black'>In</h2> */}
-            {/* <h2 className='text-7xl text-black'>London</h2> */}
+            <h2 className='text-[7vh] md:text-[8vh] leading-tight text-black font-display text-center md:text-left'>Based In London</h2>
+            {/* <h2 className='text-[7vh] md:text-[8vh] leading-tight text-black'>In</h2> */}
+            {/* <h2 className='text-[7vh] md:text-[8vh] leading-tight text-black'>London</h2> */}
         </div>
         <div className='h-full w-full md:w-1/2 flex flex-col justify-center pl-[2vw] pr-[2vw] mt-[5vh] md:mt-0'>
             <h3 className='text-3xl text-black'>Working all around the world</h3>

@@ -4,7 +4,7 @@ import Link from 'next/link'
 const Contact = () => {
   return (
     <div id="contact" className='w-full flex flex-col bg-gradient-to-tl from-black via-zinc-800 to-black items-center justify-center py-[5vh]'>
-        <h2 className='text-7xl text-white font-display mt-[5vh] mb-[5vh]'>Contact Me</h2>
+        <h2 className='text-[7vh] md:text-[8vh] leading-tight text-white font-display mt-[5vh] mb-[5vh]'>Contact Me</h2>
         <div className='w-full grid grid-cols-1 md:grid-cols-3 h-full'>
         <div className='border-2 border rounded-xl h-4/5 m-10 flex flex-col h-[60vh]'>
             {/* <span className='w-[1px] h-full bg-white relative left-20'></span> */}

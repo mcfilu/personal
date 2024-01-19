@@ -6,8 +6,8 @@ const Footer = () => {
     <div className='w-full  bg-white flex flex-col  px-[5vw] py-[2vh]'>
       <div className='flex flex-col md:flex-row justify-between'>
         <div className='flex flex-col'>
-            <h2 className='text-7xl text-black font-display'>Have a</h2>
-            <h2 className='text-7xl text-black font-display'>Nice Day</h2>
+            <h2 className='text-[7vh] md:text-[8vh] leading-tight text-black font-display'>Have a</h2>
+            <h2 className='text-[7vh] md:text-[8vh] leading-tight text-black font-display'>Nice Day</h2>
         </div>
        
         
