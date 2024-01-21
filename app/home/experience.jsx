@@ -36,9 +36,9 @@ const Experience = () => {
                 <div class="h-full border-black border-l-2"></div>
             </div>
             <div className='w-full md:w-[70%] h-full flex flex-col mt-[2vh] pl-[2vw]'>
-                <h2 className='text-[3vh] font-bold'>Full Stack Developer</h2>
+                <h2 className='text-[3vh] font-bold'>Research Python Developer</h2>
                 <p className='flex md:hidden'>October 2021 - Current</p>
-                <h2 className=''>Papagrin</h2>
+                <h2 className=''>Cracow University of Economics</h2>
                 <p className='mt-[3vh] text-[1.7vh]'>Took charge of a legacy project from the previous IT contractor and resurrected the application without any documentation or runtime environment. Despite two companies giving up on the project, I adeptly established fully functional environments, incorporating Docker containerisation, and implementing CI/CD processes.</p>
                 <p className='mt-[1vh] text-[1.7vh]'>Took charge of a legacy project from the previous IT contractor and resurrected the application without any documentation or runtime environment. Despite two companies giving up on the project, I adeptly established fully functional environments, incorporating Docker containerisation, and implementing CI/CD processes.</p>
                 <div className='w-full flex flex-wrap gap-2 md:gap-4 mt-[2vh] text-[1.7vh]'>
@@ -62,7 +62,7 @@ const Experience = () => {
             <div className='w-full md:w-[70%] h-full flex flex-col mt-[2vh] pl-[2vw]'>
                 <h2 className='text-[3vh] font-bold'>Full Stack Developer</h2>
                 <p className='flex md:hidden'>October 2021 - Current</p>
-                <h2 className=''>Papagrin</h2>
+                <h2 className=''></h2>
                 <p className='mt-[3vh] text-[1.7vh]'>Took charge of a legacy project from the previous IT contractor and resurrected the application without any documentation or runtime environment. Despite two companies giving up on the project, I adeptly established fully functional environments, incorporating Docker containerisation, and implementing CI/CD processes.</p>
                 <p className='mt-[1vh] text-[1.7vh]'>Took charge of a legacy project from the previous IT contractor and resurrected the application without any documentation or runtime environment. Despite two companies giving up on the project, I adeptly established fully functional environments, incorporating Docker containerisation, and implementing CI/CD processes.</p>
                 <div className='w-full flex flex-wrap gap-2 md:gap-4 mt-[2vh] text-[1.7vh]'>
