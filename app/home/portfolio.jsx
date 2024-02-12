@@ -37,7 +37,7 @@ const Portfolio = () => {
             
             <div className='w-full md:w-[45%] flex flex-col items-start justify-center'>
                 <p className='text-white '>Featured Project</p>
-                <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>OShot Website Redesign</h2>
+                <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>ZeroWait Mapbox DB Integration</h2>
                 <div className='flex  md:hidden w-full h-[30vh] relative mt-[1vh] md:mt-0'>
                     <Image alt="" src="/images/zerowait.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
@@ -68,7 +68,7 @@ const Portfolio = () => {
             </div>
             <div className='w-full md:w-[45%] flex flex-col items-start md:items-end justify-center'>
                 <p className='text-white '>Featured Project</p>
-                <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>OShot Website Redesign</h2>
+                <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display text-right'>St. Andrew Parish Multimedia App</h2>
                 <div className='flex  md:hidden w-full h-[30vh] relative mt-[1vh] md:mt-0'>
                     <Image alt="" src="/images/parish.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
@@ -94,7 +94,7 @@ const Portfolio = () => {
             
             <div className='w-full md:w-[45%] flex flex-col items-start justify-center'>
                 <p className='text-white '>Featured Project</p>
-                <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>OShot Website Redesign</h2>
+                <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>qLegal Podcast Application</h2>
                 <div className='flex  md:hidden w-full h-[30vh] relative mt-[1vh] md:mt-0'>
                     <Image alt="" src="/images/qlegal.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
@@ -125,7 +125,7 @@ const Portfolio = () => {
             </div>
             <div className='w-full md:w-[45%] flex flex-col items-start md:items-end justify-center'>
                 <p className='text-white '>Featured Project</p>
-                <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>OShot Website Redesign</h2>
+                <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display text-right'>Papagrin Production Application</h2>
                 <div className='flex  md:hidden w-full h-[30vh] relative mt-[1vh] md:mt-0'>
                     <Image alt="" src="/images/papagrin1.webp" fill objectFit='cover' className='rounded'></Image>
                 </div>
@@ -151,7 +151,7 @@ const Portfolio = () => {
             
             <div className='w-full md:w-[45%] flex flex-col items-start justify-center'>
                 <p className='text-white '>Featured Project</p>
-                <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>OShot Website Redesign</h2>
+                <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>SkillsBite</h2>
                 <div className='flex  md:hidden w-full h-[30vh] relative mt-[1vh] md:mt-0'>
                     <Image alt="" src="/images/skillsbite.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
