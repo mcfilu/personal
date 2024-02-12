@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div id="about" className='w-full flex flex-col md:flex-row justify-center'>
         <div className='w-full md:w-1/2  relative bg-gradient-to-br from-black via-zinc-800 to-black'>
-            <Image fill objectFit='cover' alt="" src="/images/me_no_bg.png" ></Image>
+            <Image fill objectFit='contain' alt="" src="/images/new_bg_me2.png" ></Image>
         </div>
         <div className='w-full md:w-1/2 h-full flex flex-col bg-gradient-to-tl from-black via-zinc-800 to-black justify-center p-10 py-[10vh]'>
             <h2 className='text-[7vh] md:text-[8vh] leading-tight text-white font-display'>Hey</h2>
