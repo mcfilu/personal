@@ -2,7 +2,7 @@ import React from 'react'
 
 const Location = () => {
   return (
-    <div className='w-full flex flex-col md:flex-row bg-white py-[10vh]'>
+    <div className='w-full flex flex-col md:flex-row bg-white py-[8vh]'>
         <div className='w-full md:w-1/2 flex flex-row items-center pl-[5vw]'>
             <h2 className='text-[7vh] md:text-[8vh] leading-tight text-black font-display text-center md:text-left'>Based In London</h2>
             {/* <h2 className='text-[7vh] md:text-[8vh] leading-tight text-black'>In</h2> */}

@@ -39,7 +39,7 @@ const Portfolio = () => {
                 <p className='text-white '>Featured Project</p>
                 <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>OShot Website Redesign</h2>
                 <div className='flex  md:hidden w-full h-[30vh] relative mt-[1vh] md:mt-0'>
-                    <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                    <Image alt="" src="/images/zerowait.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
                 <div className='z-10 w-full md:w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[2vh] md:mt-[3vh] rounded'>
                     <p className='text-white text-left '>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
@@ -58,19 +58,19 @@ const Portfolio = () => {
                 </div>
             </div>
             <div className='hidden md:flex w-[55%] h-[50vh] relative '>
-                <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                <Image alt="" src="/images/zerowait.png" fill objectFit='cover' className='rounded'></Image>
             </div>
         </div>
 
         <div className='w-full flex flex-row mt-[10vh]'>
             <div className='hidden md:flex w-[55%] h-[50vh] relative '>
-                <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                <Image alt="" src="/images/parish.png" fill objectFit='cover' className='rounded'></Image>
             </div>
             <div className='w-full md:w-[45%] flex flex-col items-start md:items-end justify-center'>
                 <p className='text-white '>Featured Project</p>
                 <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>OShot Website Redesign</h2>
                 <div className='flex  md:hidden w-full h-[30vh] relative mt-[1vh] md:mt-0'>
-                    <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                    <Image alt="" src="/images/parish.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
                 <div className='w-full md:w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[2vh] md:mt-[3vh] rounded'>
                     <p className='text-white text-left md:text-right'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
@@ -96,7 +96,7 @@ const Portfolio = () => {
                 <p className='text-white '>Featured Project</p>
                 <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>OShot Website Redesign</h2>
                 <div className='flex  md:hidden w-full h-[30vh] relative mt-[1vh] md:mt-0'>
-                    <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                    <Image alt="" src="/images/qlegal.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
                 <div className='z-10 w-full md:w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[2vh] md:mt-[3vh] rounded'>
                     <p className='text-white text-left '>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
@@ -115,19 +115,19 @@ const Portfolio = () => {
                 </div>
             </div>
             <div className='hidden md:flex w-[55%] h-[50vh] relative '>
-                <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                <Image alt="" src="/images/qlegal.png" fill objectFit='cover' className='rounded'></Image>
             </div>
         </div>
 
         <div className='w-full flex flex-row mt-[10vh]'>
             <div className='hidden md:flex w-[55%] h-[50vh] relative '>
-                <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                <Image alt="" src="/images/papagrin1.webp" fill objectFit='cover' className='rounded'></Image>
             </div>
             <div className='w-full md:w-[45%] flex flex-col items-start md:items-end justify-center'>
                 <p className='text-white '>Featured Project</p>
                 <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>OShot Website Redesign</h2>
                 <div className='flex  md:hidden w-full h-[30vh] relative mt-[1vh] md:mt-0'>
-                    <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                    <Image alt="" src="/images/papagrin1.webp" fill objectFit='cover' className='rounded'></Image>
                 </div>
                 <div className='w-full md:w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[2vh] md:mt-[3vh] rounded'>
                     <p className='text-white text-left md:text-right'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
@@ -153,7 +153,7 @@ const Portfolio = () => {
                 <p className='text-white '>Featured Project</p>
                 <h2 className='text-white text-[4vh] md:text-[5vh] leading-tight mt-[1vh] font-display'>OShot Website Redesign</h2>
                 <div className='flex  md:hidden w-full h-[30vh] relative mt-[1vh] md:mt-0'>
-                    <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                    <Image alt="" src="/images/skillsbite.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
                 <div className='z-10 w-full md:w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[2vh] md:mt-[3vh] rounded'>
                     <p className='text-white text-left '>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
@@ -172,7 +172,7 @@ const Portfolio = () => {
                 </div>
             </div>
             <div className='hidden md:flex w-[55%] h-[50vh] relative '>
-                <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
+                <Image alt="" src="/images/skillsbite.png" fill objectFit='cover' className='rounded'></Image>
             </div>
         </div>
 
