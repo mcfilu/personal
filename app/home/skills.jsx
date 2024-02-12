@@ -34,7 +34,7 @@ const Skills = () => {
             </div>
         </div>
         <div className='flex flex-col h-full'>
-            <div className='bg-white hover:bg-zinc-100 h-full flex items-center justify-center border-x'>
+            <div className='bg-white hover:bg-zinc-100  flex items-center justify-center border-x'>
                 <div className='flex flex-col w-full h-full px-[2vw] py-[8vh] items-left justify-center'>
                     <h2 className='text-3xl font-display'>02. Front End</h2>
                     <p className='mt-[4vh]'>Frontend showcases my ability to craft captivating user interfaces and intuitive interactions, creating visually stunning and user-friendly web experiences.</p>
