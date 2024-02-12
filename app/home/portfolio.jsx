@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import Link from 'next/link'
 
 const Portfolio = () => {
   return (
@@ -28,7 +29,7 @@ const Portfolio = () => {
                 </div>
                 <div className='flex flex-row gap-4 mt-[1vh]'>
                     <a rel="noopener noreferrer" target='_blank' href="https://github.com"><i className='fa-brands fa-github text-white text-[4vh] cursor-pointer'></i></a>
-                    <i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh] cursor-pointer'></i>
+                    <Link href="https://oshot.uk" target="_blank"><i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh] cursor-pointer'></i></Link>
                 </div>
             </div>
         </div>
@@ -54,7 +55,7 @@ const Portfolio = () => {
                 </div>
                 <div className='flex flex-row gap-4 mt-[1vh]'>
                     <i className='fa-brands fa-github text-white text-[4vh]'></i>
-                    <i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh]'></i>
+                    <Link href="https://zerowait.webflow.com" target="_blank"><i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh]'></i></Link>
                 </div>
             </div>
             <div className='hidden md:flex w-[55%] h-[50vh] relative '>
@@ -85,7 +86,7 @@ const Portfolio = () => {
                 </div>
                 <div className='flex flex-row gap-4 mt-[1vh]'>
                     <a rel="noopener noreferrer" target='_blank' href="https://github.com"><i className='fa-brands fa-github text-white text-[4vh] cursor-pointer'></i></a>
-                    <i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh] cursor-pointer'></i>
+                    <Link href="https://parish.vercel.app" target="_blank"><i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh] cursor-pointer'></i></Link>
                 </div>
             </div>
         </div>
@@ -111,7 +112,7 @@ const Portfolio = () => {
                 </div>
                 <div className='flex flex-row gap-4 mt-[1vh]'>
                     <i className='fa-brands fa-github text-white text-[4vh]'></i>
-                    <i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh]'></i>
+                    <Link href="https://yourslawfully.co.uk" target="_blank"><i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh]'></i></Link>
                 </div>
             </div>
             <div className='hidden md:flex w-[55%] h-[50vh] relative '>
@@ -141,8 +142,8 @@ const Portfolio = () => {
                     <p>HTML/5</p>
                 </div>
                 <div className='flex flex-row gap-4 mt-[1vh]'>
-                    <a rel="noopener noreferrer" target='_blank' href="https://github.com"><i className='fa-brands fa-github text-white text-[4vh] cursor-pointer'></i></a>
-                    <i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh] cursor-pointer'></i>
+                    {/* <a rel="noopener noreferrer" target='_blank' href="https://github.com"><i className='fa-brands fa-github text-white text-[4vh] cursor-pointer'></i></a> */}
+                    {/* <Link href="https://yourslawfully.co.uk" target="_blank"><i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh] cursor-pointer'></i></Link> */}
                 </div>
             </div>
         </div>
@@ -167,8 +168,8 @@ const Portfolio = () => {
                     <p>HTML/5</p>
                 </div>
                 <div className='flex flex-row gap-4 mt-[1vh]'>
-                    <i className='fa-brands fa-github text-white text-[4vh]'></i>
-                    <i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh]'></i>
+                    {/* <i className='fa-brands fa-github text-white text-[4vh]'></i> */}
+                    <Link href="https://landing-page-skillsbite.vercel.app/" target='_blank'><i className='fa-solid fa-arrow-up-right-from-square text-white text-[4vh]'></i></Link>
                 </div>
             </div>
             <div className='hidden md:flex w-[55%] h-[50vh] relative '>
