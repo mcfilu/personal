@@ -9,7 +9,7 @@ const Skills = () => {
             <div className='bg-white hover:bg-zinc-100 h-full flex items-center justify-center'>
                 <div className='flex flex-col w-full h-full px-[2vw] py-[8vh] items-left justify-center'>
                     <h2 className='text-3xl font-display'>01. Back End</h2>
-                    <p className='mt-[4vh]'>Understand the client’s subject matter completely and build on the knowledge related to it, becoming intimately familiar with the subject matter. Determine methods to address the specific customer’s needs and requirements.</p>
+                    <p className='mt-[4vh]'>In the Backend section, I highlight my expertise in building powerful server-side solutions that drive seamless digital experiences, utilizing a range of programming languages and frameworks. </p>
                 </div>
             </div>
             <div className='w-full h-full flex flex-col px-[2vw] py-[5vh] hover:bg-zinc-600 bg-zinc-800'>
@@ -37,7 +37,7 @@ const Skills = () => {
             <div className='bg-white hover:bg-zinc-100 h-full flex items-center justify-center border-x'>
                 <div className='flex flex-col w-full h-full px-[2vw] py-[8vh] items-left justify-center'>
                     <h2 className='text-3xl font-display'>02. Front End</h2>
-                    <p className='mt-[4vh]'>Understand the client’s subject matter completely and build on the knowledge related to it, becoming intimately familiar with the subject matter. Determine methods to address the specific customer’s needs and requirements.</p>
+                    <p className='mt-[4vh]'>Frontend showcases my ability to craft captivating user interfaces and intuitive interactions, creating visually stunning and user-friendly web experiences.</p>
                 </div>
             </div>
             <div className='w-full h-full flex flex-col px-[2vw] py-[5vh] hover:bg-zinc-600 bg-zinc-800 border-x'>
@@ -66,7 +66,7 @@ const Skills = () => {
             <div className='bg-white hover:bg-zinc-100 h-full flex items-center justify-center'>
                 <div className='flex flex-col w-full h-full px-[2vw] py-[8vh] items-left justify-center'>
                     <h2 className='text-3xl font-display'>03. Other Tools</h2>
-                    <p className='mt-[4vh]'>Understand the client’s subject matter completely and build on the knowledge related to it, becoming intimately familiar with the subject matter. Determine methods to address the specific customer’s needs and requirements.</p>
+                    <p className='mt-[4vh]'>The Other Tools section demonstrates my proficiency in essential technologies and tools for efficient development and deployment workflows, ensuring smooth project execution from start to finish.</p>
                 </div>
             </div>
             <div className='w-full h-full flex flex-col p-8 px-[2vw] py-[5vh] hover:bg-zinc-600 bg-zinc-800'>
