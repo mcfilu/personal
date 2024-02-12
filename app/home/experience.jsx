@@ -15,7 +15,7 @@ const Experience = () => {
                 <h2 className='text-[3vh] font-display'>Full Stack Developer</h2>
                 <p className='flex md:hidden'>October 2021 - Current</p>
                 <h2 className=''>Papagrin</h2>
-                <p className='mt-[3vh] text-[1.7vh]'>Papagrin logo Full Stack DeveloperFull Stack Developer Papagrin · Full-timePapagrin · Full-time Oct 2021 - Present · 2 yrs 5 mosOct 2021 - Present · 2 yrs 5 mos RemoteRemote My primary focus has been on backend development using Python, Django, Linux, Nginx, and cloud infrastructure, coupled with PostgreSQL. I took charge of reviving a critical legacy application, incorporating Docker containerization, and establishing functional environments with CI/CD pipelines.</p>
+                <p className='mt-[3vh] text-[1.7vh]'>My primary focus has been on backend development using Python, Django, Linux, Nginx, and cloud infrastructure, coupled with PostgreSQL. I took charge of reviving a critical legacy application, incorporating Docker containerization, and establishing functional environments with CI/CD pipelines.</p>
                 <p className='mt-[1vh] text-[1.7vh]'>Additionally, my responsibilities extended to frontend development using Django templates, HTML, and CSS. Moreover, I played a significant role in business process mapping and contributed to product development.</p>
                 <div className='w-full flex flex-wrap gap-2 md:gap-4 mt-[2vh] text-[1.7vh]'>
                     <div className='bg-black text-white rounded-xl px-4 py-2'>Python</div>
