@@ -16,8 +16,8 @@ const Portfolio = () => {
                     <Image alt="" src="/images/oshot.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
                 <div className='w-full md:w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[2vh] md:mt-[3vh] rounded'>
-                    <p className='text-white text-left md:text-right'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
-                    <p className='text-white text-left md:text-right mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
+                    <p className='text-white text-left md:text-right'>Revamped the websites for the globally recognised medical treatment, creating a seamless and user-friendly experience that resonated with thousands worldwide. </p>
+                    <p className='text-white text-left md:text-right mt-[1vh]'>Pioneered the implementation of Next.js for the front-end development, achieving an exceptional 25% reduction in page load times, translating into a remarkable 15% surge in user engagement. </p>
                 </div>
                 <div className='w-full flex flex-wrap gap-4 md:justify-end text-white mt-[1vh] md:mt-[2vh]'>
                     <p>JavaScript</p>
@@ -42,8 +42,8 @@ const Portfolio = () => {
                     <Image alt="" src="/images/zerowait.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
                 <div className='z-10 w-full md:w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[2vh] md:mt-[3vh] rounded'>
-                    <p className='text-white text-left '>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
-                    <p className='text-white text-left  mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
+                    <p className='text-white text-left '>Supervised the technical development of a multifaceted full-stack application. Collaborated effectively with a diverse and geographically dispersed team to achieve seamless integration between custom APIs and Webflow-generated front end. Leveraged Mapbox and jQuery to create an interactive and dynamic user interface that effectively presented data.</p>
+                    {/* <p className='text-white text-left  mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p> */}
                 </div>
                 <div className='w-full flex flex-wrap gap-4 text-white mt-[1vh] md:mt-[2vh]'>
                     <p>JavaScript</p>
@@ -73,8 +73,8 @@ const Portfolio = () => {
                     <Image alt="" src="/images/parish.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
                 <div className='w-full md:w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[2vh] md:mt-[3vh] rounded'>
-                    <p className='text-white text-left md:text-right'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
-                    <p className='text-white text-left md:text-right mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
+                    <p className='text-white text-left md:text-right'>Effectively guided a team of 10 stakeholders in crafting the desired functionality for a multimedia application encompassing 25 subpages. Executed multiple design phases and developed a cutting-edge Next.js front end seamlessly integrated with a custom-built CMS platform, ensuring the consistent and seamless delivery of content.</p>
+                    {/* <p className='text-white text-left md:text-right mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p> */}
                 </div>
                 <div className='w-full flex flex-wrap gap-4 md:justify-end text-white mt-[1vh] md:mt-[2vh]'>
                     <p>JavaScript</p>
@@ -99,8 +99,8 @@ const Portfolio = () => {
                     <Image alt="" src="/images/qlegal.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
                 <div className='z-10 w-full md:w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[2vh] md:mt-[3vh] rounded'>
-                    <p className='text-white text-left '>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
-                    <p className='text-white text-left  mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
+                    <p className='text-white text-left '>Collaborated with interdisciplinary stakeholders to gather requirements for the website and back-end architecture. Led the creation of a React.js app and implemented a custom CMS in Django-REST. Ensured real-time data presentation through seamless synchronisation using a RESTful API.</p>
+                    {/* <p className='text-white text-left  mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p> */}
                 </div>
                 <div className='w-full flex flex-wrap gap-4 text-white mt-[1vh] md:mt-[2vh]'>
                     <p>JavaScript</p>
@@ -156,8 +156,8 @@ const Portfolio = () => {
                     <Image alt="" src="/images/skillsbite.png" fill objectFit='cover' className='rounded'></Image>
                 </div>
                 <div className='z-10 w-full md:w-[110%] relative bg-black py-[3vh] px-[2vw] mt-[2vh] md:mt-[3vh] rounded'>
-                    <p className='text-white text-left '>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
-                    <p className='text-white text-left  mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p>
+                    <p className='text-white text-left '>Supervised the technical development of a multifaceted full-stack application. Collaborated effectively with a diverse and geographically dispersed team to achieve seamless integration between custom APIs and Webflow-generated front end. Leveraged Mapbox and jQuery to create an interactive and dynamic user interface that effectively presented data. </p>
+                    {/* <p className='text-white text-left  mt-[1vh]'>A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.</p> */}
                 </div>
                 <div className='w-full flex flex-wrap gap-4 text-white mt-[1vh] md:mt-[2vh]'>
                     <p>JavaScript</p>
